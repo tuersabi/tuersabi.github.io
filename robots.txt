@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tuersabi.github.io/sitemap.html.gz
+Sitemap: https://tuersabi.github.io/app/sitemap.html.gz
+Sitemap: https://tuersabi.github.io/assets/sitemap.html.gz
+Sitemap: https://tuersabi.github.io/css/sitemap.html.gz
+Sitemap: https://tuersabi.github.io/includes/sitemap.html.gz
+Sitemap: https://tuersabi.github.io/item/sitemap.html.gz
+Sitemap: https://tuersabi.github.io/src/sitemap.html.gz
